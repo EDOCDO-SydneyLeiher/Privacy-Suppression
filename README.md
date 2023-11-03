@@ -1,5 +1,5 @@
 <h1 align="center">Data Suppression</h1>
-<h3 align="center">Primary and Complementary Suppression for Title II Educator Preparation Program Enrollment by Race/Ethnicity</h3>
+<h3 align="center">Primary and Complementary Suppression of Title II Educator Preparation Program Enrollment by Race/Ethnicity</h3>
 
 ## Background
 
