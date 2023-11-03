@@ -7,19 +7,19 @@ Privacy suppression techniques are utilized to prevent reidentification and prot
 
 Original data:
 
-![Origional Data](imagine_example1.PNG)
+![Origional Data](PNG/imagine_example1.PNG)
 
 Primary suppression minimumn N-size of 4 to group:
 
-![Data with Primary Suppression applied](primary_suppression.PNG)
+![Data with Primary Suppression applied](PNG/primary_suppression.PNG)
 
 Complementary suppression is applied when a group has its data masked because another group doesn’t meet the N-size of 4, and the first group’s results could be determined through simple calculations. 
 
-![Data with Primary Suppression solved](primary_suppression_solution.PNG)
+![Data with Primary Suppression solved](PNG/primary_suppression_solution.PNG)
 
 Therefore, the sum of the primary suppression must be greater then 3, or the next minimum value in a row is suppressed as the complementary suppression.
 
-![Complementary Suppression](complementary_suppression.PNG)
+![Complementary Suppression](PNG/complementary_suppression.PNG)
 
 ## Getting Started
 
