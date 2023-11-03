@@ -42,9 +42,15 @@ This script relies on the following Python packages:
 
 ## Authors
 
-Sydney Leiher
-Data Scientist 
+Sydney Leiher,
+Data Scientist, 
 U.S Department of Education
+
+## Data Sources
+U.S Department of Education, Title II Educator Preparation Program Enrollment Data
+
+Notes: Data used in the image examples above is dummy data
+
 
 ## Acknowledgments
 
