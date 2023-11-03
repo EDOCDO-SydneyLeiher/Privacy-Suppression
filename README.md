@@ -17,7 +17,7 @@ Complementary suppression is applied when a group has its data masked because an
 
 ![Data with Primary Suppression solved](primary_suppression_solution.PNG)
 
-Therefore, the sum of the primary suppression must be great then 3, or the next minimum value in a row is suppressed as the complementary suppression.
+Therefore, the sum of the primary suppression must be greater then 3, or the next minimum value in a row is suppressed as the complementary suppression.
 
 ![Complementary Suppression](complementary_suppression.PNG)
 
