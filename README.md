@@ -23,7 +23,7 @@ Therefore, the sum of the primary suppression must be greater than 3, or the nex
 
 ## Getting Started
 
-This Python script is designed to perform two levels of data suppression on a dataset. The first level of suppression, **primary suppression**, replaces values between 0 and 4 with an asterisk, while the second level, **complementary suppression**, replaces the minimum value in a row with an exclamation mark. To find the minimum value in a row while ignoring both the primary suppressed values and regular zero values, both values are replaced with infitity so they won't interfere with the minimum value calculation. This is where **'np.inf'**, which represents positive infifity, comes into play.
+This Python script is designed to perform two levels of data suppression on a dataset. The first level of suppression, **primary suppression**, replaces values between 0 and 4 with an asterisk, while the second level, **complementary suppression**, replaces the minimum value in a row with an exclamation mark. To find the minimum value in a row while ignoring both the primary suppressed values and regular zero values, both values are replaced with infitity so they won't interfere with the minimum value calculation. This is where **'np.inf'**, which represents positive infinity, comes into play.
 
 **two_level_suppression function**:
 The two_level_suppression function is designed to work with one text column (or one column containing non-numeric data) and perform two levels of data suppression on the remaining numeric columns in the DataFrame. This means that you can have multiple numeric columns alongside the single text column, and the function will apply the suppression only to the numeric columns, leaving the text column untouched. 
