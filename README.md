@@ -3,7 +3,7 @@
 
 ## Background
 
-Privacy suppression techniques are utilized to prevent reidentification and protect individuals' privacy when dealing with cell counts equal to or less than three. In this project we have applied a primary and complementary suppresion. We have applied a minimum N-size of 4 to group size of EPP enrollment as a primary suppression. 
+Privacy suppression techniques are utilized to prevent reidentification and protect individuals' privacy when dealing with cell counts equal to or less than three. In this project we have applied a primary and complementary suppression. We have applied a minimum N-size of 4 to group size of EPP enrollment as a primary suppression. 
 
 Original data:
 
